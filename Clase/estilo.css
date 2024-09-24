@@ -1,0 +1,83 @@
+.caja_principal
+{
+display: block;
+}
+
+.caja1
+{
+background-color: red;
+height: 150px;
+width: 300px;
+}
+
+.caja2
+{
+background-color: blue;
+height: 150px;
+width: 300px;
+}
+
+
+.caja_principalDi
+{
+display: inline;
+}
+
+.caja1Di
+{
+background-color: red;
+
+}
+
+.caja2Di
+{
+background-color: blue;
+
+}
+
+
+
+.caja_principalDib
+{
+display: inline-block;
+}
+
+.caja1Dib
+{
+background-color: red;
+width: 100px;
+height: 150px;
+
+}
+
+.caja2Dib
+{
+background-color: blue;
+width: 100px;
+height: 150px;
+
+}
+
+.caja_principalDf
+{
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+box-sizing: border-box;
+}
+
+.cajaDf
+{
+background-color: red;
+border: solid 5px black;
+margin: 10px;
+}
+
+.sofadi-one-regular {
+    font-family: "Sofadi One", system-ui;
+    font-weight: 400;
+    font-style: <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  }
+  
